@@ -1,7 +1,7 @@
 theme: jekyll-theme-dinky
 github:
   owner_url: https://zrouter.org
-  repository_name: https://github.com/ZRouter/ZRouter
+  repository_url: https://github.com/ZRouter/ZRouter
 webrick:
   headers:
     My-Header: My-Value
